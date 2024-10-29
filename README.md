@@ -1,1 +1,0 @@
-# week-44-lecture-typescript-basics
